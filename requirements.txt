@@ -1,0 +1,9 @@
+tensorflow==2.8.0
+keras
+opencv-python-headless
+Flask
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
